@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Ronal Yesid Castro
 26 
 Aprender el paradigma de programacion orientada a objetps
+=======
+Se pudo hacer commit ya que la carpeta no esta vacia
+>>>>>>> 532f2f46c8036fe25a716941fcd9e9c284b56798
